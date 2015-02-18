@@ -1,0 +1,12 @@
+C:\Users\muge\Documents\Visual Studio 2010\Projects\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\muge\Documents\Visual Studio 2010\Projects\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\muge\Documents\Visual Studio 2010\Projects\HW4\HW4\obj\x86\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\muge\Documents\Visual Studio 2010\Projects\HW4\HW4\obj\x86\Debug\HW4.exe
+C:\Users\muge\Documents\Visual Studio 2010\Projects\HW4\HW4\obj\x86\Debug\HW4.pdb
+C:\Users\muge\Desktop\HW4\HW4\obj\x86\Debug\HW4.exe
+C:\Users\muge\Desktop\HW4\HW4\obj\x86\Debug\HW4.pdb
+C:\Users\muge\Desktop\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\muge\Desktop\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\muge\Desktop\HW4\HW4\obj\x86\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\ismailtsn92\Desktop\HW4\HW4\obj\x86\Debug\HW4.exe
+C:\Users\ismailtsn92\Desktop\HW4\HW4\obj\x86\Debug\HW4.pdb
